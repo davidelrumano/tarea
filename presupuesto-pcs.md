@@ -1,4 +1,5 @@
-PC intel
+# Configuración de PC Intel  
+![Intel Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Intel_logo_%282020%2C_light_blue%29.svg/320px-Intel_logo_%282020%2C_light_blue%29.svg.png)  
 
 | Tipo de Componente       | Componente                                         | Precio  | URL                      |
 |--------------------------|----------------------------------------------------|--------:|--------------------------|
@@ -10,12 +11,12 @@ PC intel
 | **Fuente de Alimentación** | Nfortec Sagitta X 750W PCIE 5.0 80 Plus Gold Full Modular ARGB | 95,99€  | [Ver producto](https://www.pccomponentes.com/fuente-alimentacion-nfortec-sagitta-x2-pcie-51-atx-31-750w-80-plus-gold-full-modular) |
 | **Tarjeta Gráfica**      | ASRock Challenger D AMD Radeon RX 6600 8GB GDDR6   | 232,95€ | [Ver producto](https://www.pccomponentes.com/asrock-challenger-d-amd-radeon-rx-6600-8-gb-gddr6) |
 | **Disco Duro**          | Kingston NV2 1TB Disco SSD 3500MB/s NVMe PCIe 4.0 M.2 Gen4 | 58,99€  | [Ver producto](https://www.pccomponentes.com/disco-duro-kingston-nv2-1tb-disco-ssd-3500mb-s-nvme-pcie-40-m2-gen4) |
-|                          | **Total**                                          | **885,04€** |                          |
+|                          | **Total**                                          | **885,04€** |                          |  
 
+---
 
-
-
-PC amd 
+# Configuración de PC AMD  
+![AMD Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/AMD_Logo.svg/320px-AMD_Logo.svg.png)  
 
 | Tipo de Componente       | Componente                                         | Precio  | URL                      |
 |--------------------------|----------------------------------------------------|--------:|--------------------------|
@@ -27,5 +28,4 @@ PC amd
 | **Fuente de Alimentación** | Nfortec Sagitta X 750W PCIE 5.0 80 Plus Gold Full Modular ARGB | 95,99€  | [Ver producto](https://www.pccomponentes.com/nfortec-sagitta-x-750w-pcie-50-80-plus-gold-full-modular-a-rgb) |
 | **Tarjeta Gráfica**      | ASRock Challenger D AMD Radeon RX 6600 8GB GDDR6   | 232,95€ | [Ver producto](https://www.pccomponentes.com/asrock-challenger-d-amd-radeon-rx-6600-8-gb-gddr6) |
 | **Disco Duro**          | WD Black SN770 1TB Disco SSD 5150MB/s NVMe PCIe 4.0 M.2 Gen4 16GT/s | 73,99€  | [Ver producto](https://www.pccomponentes.com/disco-duro-wd-black-sn770-1tb-disco-ssd-5150mb-s-nvme-pcie-40-m2-gen4-16gt-s) |
-|                          | **Total**                                          | **889,25€** |                          |
-
+|                          | **Total**                                          | **889,25€** |                          |  
