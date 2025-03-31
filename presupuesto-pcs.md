@@ -17,3 +17,15 @@ PC intel
 
 PC amd 
 
+| Tipo de Componente       | Componente                                         | Precio  | URL                      |
+|--------------------------|----------------------------------------------------|--------:|--------------------------|
+| **Procesador**           | AMD Ryzen 5 5600X 3.7GHz                           | 144,95€ | [Ver producto](https://www.pccomponentes.com/amd-ryzen-5-5600x-37ghz) |
+| **Placa Base**           | MSI B550M PRO-VDH WIFI                             | 127,50€ | [Ver producto](https://www.pccomponentes.com/msi-b550m-pro-vdh-wifi) |
+| **Memoria RAM**          | Team Group T-Force Delta RGB DDR4 3600MHz 2x8GB CL18 Negro | 39,99€  | [Ver producto](https://www.pccomponentes.com/team-group-t-force-delta-rgb-ddr4-3600mhz-pc4-28800-16gb-2x8gb-cl18-negro) |
+| **Caja/Torre**           | Corsair 3000D RGB AIRFLOW Cristal Templado USB 3.2 Negra | 104,89€ | [Ver producto](https://www.pccomponentes.com/corsair-3000d-rgb-airflow-cristal-templado-usb-32-negra) |
+| **Refrigeración Líquida**| Tempest Liquid Cooler 360 Kit de Refrigeración Líquida Blanco | 68,99€ | [Ver producto](https://www.pccomponentes.com/tempest-liquid-cooler-360-kit-de-refrigeracion-liquida-blanco) |
+| **Fuente de Alimentación** | Nfortec Sagitta X 750W PCIE 5.0 80 Plus Gold Full Modular ARGB | 95,99€  | [Ver producto](https://www.pccomponentes.com/nfortec-sagitta-x-750w-pcie-50-80-plus-gold-full-modular-a-rgb) |
+| **Tarjeta Gráfica**      | ASRock Challenger D AMD Radeon RX 6600 8GB GDDR6   | 232,95€ | [Ver producto](https://www.pccomponentes.com/asrock-challenger-d-amd-radeon-rx-6600-8-gb-gddr6) |
+| **Disco Duro**          | WD Black SN770 1TB Disco SSD 5150MB/s NVMe PCIe 4.0 M.2 Gen4 16GT/s | 73,99€  | [Ver producto](https://www.pccomponentes.com/disco-duro-wd-black-sn770-1tb-disco-ssd-5150mb-s-nvme-pcie-40-m2-gen4-16gt-s) |
+|                          | **Total**                                          | **889,25€** |                          |
+
