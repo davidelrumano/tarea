@@ -15,5 +15,5 @@ PC intel
 
 
 
-PC amd
+PC amd 
 
