@@ -3,7 +3,7 @@
 ## Introducción
 Cinebench es una herramienta de benchmarking que mide el rendimiento del procesador (CPU) en diferentes escenarios. Es ampliamente utilizada para evaluar la potencia de un procesador en tareas de renderizado.
 
-![Cinebench Logo](https://www.researchgate.net/publication/377165315/figure/fig1/AS:11431281215992354@1704458776057/Logo-de-CINEBENCH-Elaborado-por-Gomar-2018.png)
+![Cinebench Logo](https://maxonassets.imgix.net/images/Cinebench.jpg?fm=webp&auto=format,compress&w=1920&h=1080&ar=16:9&fit=clip&crop=faces&q=80)
 
 ---
 
@@ -14,7 +14,6 @@ Cinebench es una herramienta de benchmarking que mide el rendimiento del procesa
 4. Ejecuta el archivo **Cinebench.exe** en Windows o el ejecutable correspondiente en macOS.
 5. No requiere instalación, se ejecuta directamente.
 
-![Cinebench Descarga](https://img.utdstc.com/screen/5d4/3c6/5d43c60b07037a34734322dfe771b8134e7925f9e5ad59b4d5906c5daf16f4c3:600)
 
 ---
 
